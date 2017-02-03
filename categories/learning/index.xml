@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning on Keiththomps</title>
-    <link>http://keiththomps.com/categories/learning/index.xml</link>
+    <link>https://keiththomps.github.io/categories/learning/index.xml</link>
     <description>Recent content in Learning on Keiththomps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://keiththomps.com/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://keiththomps.github.io/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Recovering from Poor Planning</title>
-      <link>http://keiththomps.com/2016/02/08/recovering-from-poor-planning/</link>
+      <link>https://keiththomps.github.io/2016/02/08/recovering-from-poor-planning/</link>
       <pubDate>Mon, 08 Feb 2016 12:04:01 +0000</pubDate>
       
-      <guid>http://keiththomps.com/2016/02/08/recovering-from-poor-planning/</guid>
+      <guid>https://keiththomps.github.io/2016/02/08/recovering-from-poor-planning/</guid>
       <description>
 
 &lt;p&gt;My goal of reading one book a week didn&amp;#8217;t make it that far without a few hiccups. Reading &lt;em&gt;Good to Great&lt;/em&gt; took me a day longer than I was expecting and the book I had scheduled to follow that was a pretty big technical book. I was unable to finish reading all of &lt;em&gt;Programming Elixir&lt;/em&gt; within the week that I allotted for it.&lt;/p&gt;
