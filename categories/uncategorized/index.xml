@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Keiththomps</title>
+    <link>http://keiththomps.com/categories/uncategorized/index.xml</link>
+    <description>Recent content in Uncategorized on Keiththomps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://keiththomps.com/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Launching CoderJourney</title>
+      <link>http://keiththomps.com/2016/07/30/launching-coderjourney/</link>
+      <pubDate>Sat, 30 Jul 2016 21:02:55 +0000</pubDate>
+      
+      <guid>http://keiththomps.com/2016/07/30/launching-coderjourney/</guid>
+      <description>&lt;p&gt;I&amp;#8217;ve been working behind the scenes for a few weeks to begin producing educational programming content, and today was the day that published my first YouTube video.&lt;/p&gt;
+
+&lt;p&gt;Check out &lt;a href=&#34;https://www.youtube.com/c/coderjourney&#34;&gt;the channel&lt;/a&gt; and tell me what you think of the first video (if you&amp;#8217;re interested in learning about technology).&lt;/p&gt;
+
+&lt;p&gt;Special thanks to Ian Zainea for making the intro animation for my videos.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
